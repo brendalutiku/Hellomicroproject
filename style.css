@@ -1,0 +1,7 @@
+/* stylelint-disable indentation */
+/* stylelint-disable no-eol-whitespace */
+h1 {
+  /* stylelint-disable-next-line block-closing-brace-newline-before */
+  color: blue;   
+/* stylelint-disable-next-line no-missing-end-of-source-newline */
+}
